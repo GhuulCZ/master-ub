@@ -1,4 +1,4 @@
-# Starting point
+# master-ub
 
 [![build-ublue](https://github.com/ghuulcz/master-ub/actions/workflows/build.yml/badge.svg)](https://github.com/ghuulcz/master-ub/actions/workflows/build.yml)
 
